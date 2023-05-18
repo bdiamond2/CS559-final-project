@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. BascomHall* - Multi-textured building using extrusion geometry, custom triangles, and a texture map of my cat
+2. Road-JohnNolen-2* - Road made with extrusion of a very thin rectangle along a curved path
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. CampFire* - moving flames with procedural colors and movement that emits simple spherical smoke particles with semi-random motion
+4. CapitolBuilding* - simple model of the Capitol using basic geometries (cylinders, spheres, boxes)
+5. Airplane-1* - simple airplane with spinning props adapted from WB7
+6. ParkingGarage-1 - simple assembly of thin boxes as the levels and cylinder support beams
+7. LakeWingra* - large extusion geometry using a shape that I traced out with an online map tool (https://geojson.io/), with moving procedural water shader
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Tree-1 - simple pine tree (a single cone and cylinder) with randomzied position and dimension to (along with many of its friends) create the Arboretum
+- AirportTerminal* - very basic box with articulated movement from attached jetways
+- Person-1* - basic human shape with a sphere on top of a short cylinder, implemented with randomized clothing colors and skin tones
+
+At least on of each type of object:
+Building/structure: BascomHall*
+Vehicle: Car-1* - very basic car shape adapted from WB8
+Natural Element: LakeWingra*
+
+Object loaded from a model file:
+Model: "Statue of Liberty" - OBJ model downloaded from SketchFab (see final-02-attributions.txt)
+
+An object with a shader that you wrote:
+ShaderObj: Car-1* - has headlight that fades over a distance
+
+Other Objects that you would like to note:
+HouseOpenGable-1 and HousePyramidHip-1 - two basic templates of houses with randomized locations, colors, rotaions, and dimensions

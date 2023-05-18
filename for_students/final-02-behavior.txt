@@ -1,0 +1,14 @@
+Three different behaviors that you made:
+1. Person-1* - People pacing back and forth
+2. Car-1* - Cars driving on the roads
+3. CampFire* - Moving campfire with rising smoke
+
+One behavior that is not simple:
+Not simple: CampFire* - Moving campfire with rising smoke
+
+Animated Articulated Figure:
+Articulated: AirportTerminal* - Moving jetways on the airport terminal
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Airplane-1* - Spinning propellers on the airplanes
+- Airplane-1* - Airplane flying in a circle

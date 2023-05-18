@@ -1,0 +1,12 @@
+List all attributions here, this include "self-attributions":
+
+- Statue of Liberty OBJ attribution from SketchFab: 
+"Statue of Liberty" (https://skfb.ly/ZIsK) by Crafteri is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+- Airplane: This is adapted from my own airplane object created in Workbook 7.
+- Car: Adapted from my own simple car design from Workbook 8.
+- Houses: The geometries for both types of houses was taken from my own design in Workbook 8.
+- The Camp Randall field image was taken as a screenshot from Google Maps: (https://www.google.com/maps/place/Camp+Randall+Stadium/@43.0699485,-89.4152674,589m/data=!3m2!1e3!5s0x8807acc4421a7adf:0x5b8a477a6d939079!4m6!3m5!1s0x8807acc475d5513f:0xe005ee8fd16e04a!8m2!3d43.0699446!4d-89.4126871!16zL20vMDFzcGZy). Attribution: "Imagery ©2023 Google, Imagery ©2023 CNES / Airbus, Maxar Technologies, Map data ©2023 Google". The image itself also contains attribution, as outlined in Google's attribution guidelines: https://about.google/brand-resource-center/products-and-services/geo-guidelines/#required-attribution
+- To trace the lake topologies and export their coordinates, I used the website https://geojson.io/. I then did some minor numerical transformations using Excel to make them work in the project.
+- A list of skin tone hex color codes was obtained here: https://www.color-hex.com/color-palette/547
+- The blue square used for the skybox is a screenshot I took from the Google hex color picker (https://www.google.com/search?q=hex+color+picker&rlz=1C5GCEM_enUS986US986&oq=hex&aqs=chrome.0.69i59j69i57j69i59l2j0i131i433i512l6.585j0j7&sourceid=chrome&ie=UTF-8).
+- The cat photo on Bascom Hall is one I took of my cat, Lilah. (Everything with Bucky was copyrighted!)
